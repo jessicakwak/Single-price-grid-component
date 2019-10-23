@@ -1,0 +1,82 @@
+body{
+  font-family: Karla;
+  background-color:hsl(204, 43%, 93%);
+}
+
+h1{
+  margin-bottom:5%;
+  color:hsl(179, 62%, 43%);
+  font-weight:700;
+}
+
+h2{
+  margin-bottom:4%;
+  font-size:1.5rem;
+  font-weight:700;
+}
+
+.top{
+  margin:8% 10% 0;
+  padding:5%;
+  color:hsl(218, 22%, 67%);
+  background-color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 5px 5px 10px 3px hsl(204, 43%, 88%);
+}
+
+.top-sub-title{
+  color:hsl(71, 73%, 54%);
+}
+
+.top p{
+  margin:0;
+}
+
+.bottom{
+  margin:0 10% 10%;
+  color:#fff;
+  box-shadow: 5px 5px 10px 3px hsl(204, 43%, 88%);
+  border-bottom-right-radius: 10px;
+}
+
+.bottom-card-left{
+  padding:5%;
+  background-color:hsl(179, 62%, 43%);
+  border-bottom-left-radius: 10px;
+}
+
+.bottom-card-right{
+  padding:5%;
+  background-color: hsl(179, 62%, 48%);
+  border-bottom-right-radius: 10px;
+}
+
+.bottom-row{
+  margin:0px;
+}
+
+.bottom-card-right p{
+  margin:0px;
+  color:hsl(204, 43%, 93%);
+}
+
+.bottom-card-left p{
+  margin-bottom:6%;
+}
+
+.monthly-price{
+  font-size:2rem;
+  color:#fff;
+}
+
+.per-month{
+  color:hsl(204, 43%, 93%);
+}
+
+.sign-up{
+  background-color: hsl(71, 73%, 54%);
+  color:#fff;
+  box-shadow: 5px 5px 10px 3px hsl(179, 62%, 39%);
+  height:50px;
+}
