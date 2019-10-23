@@ -93,12 +93,12 @@ h2{
   .bottom-card-left{
     padding:5%;
     background-color:hsl(179, 62%, 43%);
-    border-bottom-left-radius:0;
   }
 
   .bottom-card-right{
     padding:5%;
     background-color: hsl(179, 62%, 48%);
-    border-bottom-right-radius: 0;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
   }
 }
