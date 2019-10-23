@@ -80,3 +80,25 @@ h2{
   box-shadow: 5px 5px 10px 3px hsl(179, 62%, 39%);
   height:50px;
 }
+
+
+@media only screen and (max-width:992px){
+  .bottom{
+    margin:0 10% 10%;
+    color:#fff;
+    box-shadow: 5px 5px 10px 3px hsl(204, 43%, 88%);
+    border-bottom-right-radius:0px;
+  }
+
+  .bottom-card-left{
+    padding:5%;
+    background-color:hsl(179, 62%, 43%);
+    border-bottom-left-radius:0;
+  }
+
+  .bottom-card-right{
+    padding:5%;
+    background-color: hsl(179, 62%, 48%);
+    border-bottom-right-radius: 0;
+  }
+}
